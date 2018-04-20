@@ -3,7 +3,7 @@ exports.up = function(knex, Promise) {
     table.increments();
     table.integer("product_id").notNullable();
     table.string("name").notNullable();
-    table.integer("email").notNullable();
+    table.string("email").notNullable();
     table.timestamps(true, true);
   });
 };
