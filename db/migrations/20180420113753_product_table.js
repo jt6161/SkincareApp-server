@@ -5,6 +5,7 @@ exports.up = function(knex, Promise) {
     table.text('img_url');
     table.text('description');
     table.float('price');
+    table.text('url');
     table.timestamps(true, true);
   });
 };
