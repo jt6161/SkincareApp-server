@@ -4,7 +4,7 @@ const knex = require('../db/knex');
 
 /* GET admin page. */
 router.post('/login', function(req, res, next) {
-  knex("admin").where("username", req.body.username).then((result)=>{
+  knex("admin").where("username", req.body.username.toLowerCase()).then((result)=>{
       let admin = result[0];
       if(admin.password.toLowerCase() === req.body.password.toLowerCase()){
         delete admin.password;
