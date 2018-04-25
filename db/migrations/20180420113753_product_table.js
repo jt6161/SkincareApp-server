@@ -1,10 +1,10 @@
 exports.up = function(knex, Promise) {
   return knex.schema.createTable('products', (table) => {
     table.increments();
-    table.string('name');
-    table.text('img_url');
-    table.text('description');
-    table.float('price');
+    table.string('name').notNullable();
+    table.text('img_url').notNullable();
+    table.text('description').notNullable();
+    table.float('price').notNullable();
     table.text('url');
     table.timestamps(true, true);
   });
