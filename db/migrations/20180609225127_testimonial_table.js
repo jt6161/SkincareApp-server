@@ -1,5 +1,5 @@
 exports.up = function(knex, Promise) {
-  return knex.schema.createTable('testimonials', (table) => {
+  return knex.schema.createTable('testimonial', (table) => {
     table.increments();
     table.text('testimonial').notNullable();
     table.timestamps(true, true);
@@ -7,5 +7,5 @@ exports.up = function(knex, Promise) {
 };
 
 exports.down = function(knex, Promise) {
-  return knex.schema.dropTable('testimonials')
+  return knex.schema.dropTable('testimonial')
 };
