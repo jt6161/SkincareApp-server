@@ -1,9 +1,9 @@
 exports.seed = function(knex, Promise) {
   // Deletes ALL existing entries
-  return knex('testimonial').del()
+  return knex('testimonials').del()
     .then(function () {
       // Inserts seed entries
-      return knex('testimonial').insert([
+      return knex('testimonials').insert([
         {testimonial: 'I love love love 420 Skincare, I use the canna lotion and canna soap everyday! They both smell great and I love the way the products make my skin feel. I highly recommend 420 Skincare to everyone! Jenn'},
         {testimonial: '420 skincare makes amazing products. The bath bombs help so much with my pain i generally do not need any other from of medication for a few days after soaking! I use their soap every time I shower and it significantly helps with the daily strains of chronic back and knee pain! I recommend their products to everyone. Chris'},
         {testimonial: 'My good friend gave it to me as a gift to try which was the soap and bath bomb. The soap lathers very nicely and I also use it to wash my face. I love how it does not dry my face out and even my Fiancé loves using it. Makes my face feel soft and clean. As for the bath bomb, I put it in very warm/hot water and my feet came out a new pair. Thank you for great products! Jessica'},
