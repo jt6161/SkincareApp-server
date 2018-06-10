@@ -1,5 +1,5 @@
 exports.up = function(knex, Promise) {
-  return knex.schema.createTable('testimonial', (table) => {
+  return knex.schema.createTable('testimonials', (table) => {
     table.increments();
     table.text('testimonial').notNullable();
     table.timestamps(true, true);

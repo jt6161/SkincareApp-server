@@ -10,7 +10,7 @@ const knex = require('./db/knex');
 const products = require('./routes/productRoutes');
 const orders = require('./routes/orderRoutes');
 const admin = require('./routes/adminRoutes');
-const testimonials = require('./routes/testimonialRoutes');
+// const testimonials = require('./routes/testimonialRoutes');
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
@@ -23,7 +23,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use('/products', products);
 app.use('/orders', orders);
 app.use('/admin', admin);
-app.use('/testimonials', testimonials);
+// app.use('/testimonials', testimonials);
 
 app.listen(port, function() {
   console.log("listening on port: ", port);
