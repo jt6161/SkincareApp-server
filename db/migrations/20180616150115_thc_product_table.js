@@ -1,5 +1,5 @@
 exports.up = function(knex, Promise) {
-  return knex.schema.createTable('thc_products', (table) => {
+  return knex.schema.createTable('thcproducts', (table) => {
     table.increments();
     table.string('name').notNullable();
     table.text('img_url').notNullable();
@@ -10,5 +10,5 @@ exports.up = function(knex, Promise) {
 };
 
 exports.down = function(knex, Promise) {
-  return knex.schema.dropTable('thc_products'); 
+  return knex.schema.dropTable('thcproducts');
 };
