@@ -4,7 +4,6 @@ exports.up = function(knex, Promise) {
     table.string('name').notNullable();
     table.text('img_url').notNullable();
     table.text('description').notNullable();
-    table.float('price').notNullable();
     table.timestamps(true, true);
   });
 };
