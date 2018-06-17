@@ -11,7 +11,7 @@ const products = require('./routes/productRoutes');
 const orders = require('./routes/orderRoutes');
 const admin = require('./routes/adminRoutes');
 const testimonials = require('./routes/testimonialRoutes');
-const products = require('./routes/thcproductRoutes');
+const thcproducts = require('./routes/thcproductRoutes');
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
