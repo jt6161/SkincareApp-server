@@ -12,6 +12,7 @@ const orders = require('./routes/orderRoutes');
 const admin = require('./routes/adminRoutes');
 const testimonials = require('./routes/testimonialRoutes');
 const thcproducts = require('./routes/thcproductRoutes');
+const medibles = require('./routes/medibles');
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
@@ -26,6 +27,7 @@ app.use('/orders', orders);
 app.use('/admin', admin);
 app.use('/testimonials', testimonials);
 app.use('/thcproducts', thcproducts);
+app.use('/medibles', medibles)
 
 app.listen(port, function() {
   console.log("listening on port: ", port);
