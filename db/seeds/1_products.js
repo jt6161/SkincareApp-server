@@ -11,7 +11,7 @@ exports.seed = function(knex, Promise) {
         url: 'https://www.420-skincare.com/product-page/cbd-body-cream'
       }, {
         name: 'CBD Body Butter - 4oz',
-        img_url: 'https://static.wixstatic.com/media/dbda37_25a108431f054478bbddc0329a7265d7~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_315,h_420,q_85,usm_0.66_1.00_0.01/dbda37_25a108431f054478bbddc0329a7265d7~mv2_d_3024_4032_s_4_2.jpg',
+        img_url: 'https://static.wixstatic.com/media/7026a3_beff99081d4e4f49aa01df3543538976~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_520,h_420,q_85,usm_0.66_1.00_0.01/7026a3_beff99081d4e4f49aa01df3543538976~mv2_d_5184_3456_s_4_2.jpg',
         description: 'With a thicker consistency than body cream, 420 Skincare CBD body butter is a "Skin Super Food" that is crafted from seeds found in the fruit of the Shea tree. Naturally rich in vitamins, our CBD body butter provides the skin with essential fatty acids and nutrients necessary for the collagen production. 420 SkinCare CBD body butter also provides relief from sore joints, rashes circulation, sunburns, arthritis, chronic pain, psoriasis and lupus. This product complies with all FDA standards and is not meant to diagnose, treat, cure or maintain any ailments or diseases in accordance with FDA guidelines.',
         price: '40.00',
         url: 'https://www.420-skincare.com/product-page/body-butter'
