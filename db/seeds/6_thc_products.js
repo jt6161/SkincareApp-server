@@ -16,7 +16,7 @@ exports.seed = function(knex, Promise) {
         },
         {
           name: 'Canna Lotion Cream',
-          img_url: 'https://static.wixstatic.com/media/7026a3_1445f4039f7a4b8ca9fe5c33a05bd133~mv2.png',
+          img_url: 'https://static.wixstatic.com/media/7026a3_f0c48a45abda49afa824e6918469e7e4~mv2.jpg',
           description: 'Our Canna Lotion Cream is a creamy, moisturizing lotion infused with 300mg THC. Canna lotion can be used daily to hydrate and heal your skin. The cream provides additional health & wellness benefits, such as relief from sore muscles, arthritis, various aches & pains and general skin health. DO NOT USE IF YOU ARE NURSING OR PREGNANT. KEEP OUT OF REACH OF CHILDREN AND ANIMALS.'
         },
         {
