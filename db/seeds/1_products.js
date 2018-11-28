@@ -13,7 +13,7 @@ exports.seed = function(knex, Promise) {
       }, {
         product_id: '87d878a5-afc3-6150-21b0-55e8851f3661',
         name: 'CBD Bath Bomb Dust',
-        img_url: 'https://static.wixstatic.com/media/7026a3_85050c20818b447ab3e5fc5b2a29fe2f~mv2_d_3456_5184_s_4_2.jpg',
+        img_url: 'https://static.wixstatic.com/media/7026a3_d10943f468a749c4af9735f7b87da1eb~mv2_d_5184_3456_s_4_2.jpg',
         description: 'Scoop some 420 Skincare CBD Bath Bomb Dust in your tub and watch it fizz! Our bath salts are excellent, not only for relaxation, but also for skin health and detoxification. The following ingredients work with CBD for the ultimate bath bomb experience. Epson Salt, which absorbs through the skin to help flush toxins and help promote relaxation. White clay which assists in detoxification and purification of the skin and underlying issues. Sweet almond oil, which provides beneficial nutrients and vitamins. All bath bombs are hand-crafted and will, therefore, vary in appearance. Choose from 2 different scents! This product complies with all FDA standards and is not meant to diagnose, treat, cure or maintain any ailments or diseases in accordance with FDA guidelines.',
         price: '22.00',
         url: 'https://www.420-skincare.com/product-page/cbd-bath-bomb-dust'
