@@ -11,7 +11,7 @@ exports.seed = function(knex, Promise) {
         },
         {
             name: 'One Big Badass Krispy Treat - Original',
-            img_url: 'https://static.wixstatic.com/media/7026a3_1445f4039f7a4b8ca9fe5c33a05bd133~mv2.png',
+            img_url: 'https://static.wixstatic.com/media/7026a3_f4e41e661967488ab73473fbd0ce3151~mv2_d_5184_3456_s_4_2.jpg',
             description: '420 Medibles One Big Badass Krispy Treat Original flavor - 150 mg THC. This Krispy Treat is a great big treat for anyone that loves edibles. This Treat is packed with 1.5 grams raw cannabis. Produced by MThomas LLC. Scottsdale Arizona. DO NOT USE IF YOU ARE NURSING OR PREGNANT. KEEP OUT OF REACH OF CHILDREN AND ANIMALS.'
         },
         {
