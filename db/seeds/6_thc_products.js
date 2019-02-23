@@ -30,18 +30,13 @@ exports.seed = function(knex, Promise) {
           description: 'Fill your bathtub with hot water, drop your Canna Bath Salts and watch as it releases its Therapeutic Powers. THC Canna Bath Salts are a mixture of dry natural ingredients that fizzes up when wet. More than just a cute round ball, our THC Canna Bath Salts have significant medical uses for muscle pain, sore joints or just dry skin. Our Canna Bath Salts will have you, not only feeling pain free, but also relaxed! DO NOT USE IF YOU ARE NURSING OR PREGNANT. KEEP OUT OF REACH OF CHILDREN AND ANIMALS.'
         },
         {
-          name: 'Canna Bath Bombs',
-          img_url: 'https://static.wixstatic.com/media/7026a3_f408407ef08f4bd3b5e69fcf88c1ac48~mv2.jpg',
-          description: 'Fill your bathtub with hot water, drop your Canna Bomb and watch as it releases its Therapeutic Powers. THC Canna Bombs are a hard-packed mixture of dry natural ingredients that fizzes up when wet. More than just a cute round ball, our THC Canna Bombs have significant medical uses for pain, sore joints or just dry skin. Our Canna Bombs will have you, not only feeling pain free, but also relaxed! DO NOT USE IF YOU ARE NURSING OR PREGNANT. KEEP OUT OF REACH OF CHILDREN AND ANIMALS.'
-        },
-        {
           name: 'CannaSoap Bar',
           img_url: 'https://static.wixstatic.com/media/7026a3_ce5c386252be4ba6ba368e2c13e47397~mv2_d_5184_3456_s_4_2.jpg',
           description: 'Feel the rejuvenating benefits of cannabis with our all natural, hand-crafted CannaSoap! Made with the best ingredients and purest isolate, your skin and body will thank you for cleansing with this high quality product! DO NOT USE IF YOU ARE NURSING OR PREGNANT. KEEP OUT OF REACH OF CHILDREN AND ANIMALS.'
         },
         {
           name: 'Canna Bath Dust',
-          img_url: 'https://static.wixstatic.com/media/7026a3_e6f2d6f4df4545fdb8c0f9e8ae5d2cfe~mv2_d_3456_5184_s_4_2.jpg',
+          img_url: 'https://static.wixstatic.com/media/7026a3_c60ef375c580401a90da306dc964737c~mv2_d_5184_3456_s_4_2.jpg',
           description: 'Fill your bathtub with hot water, drop your Canna Bath Dust and watch as it releases its Therapeutic Powers. THC Canna Bath Dust is a mixture of dry natural ingredients that fizzes up when wet. More than just a cute round ball, our THC Canna Bath Dust has significant medical uses for pain, sore joints or just dry skin. Our Canna Bath Dust will have you, not only feeling pain free, but also relaxed! DO NOT USE IF YOU ARE NURSING OR PREGNANT. KEEP OUT OF REACH OF CHILDREN AND ANIMALS.'
         },
         {
