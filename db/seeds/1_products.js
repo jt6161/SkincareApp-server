@@ -15,18 +15,18 @@ exports.seed = function(knex, Promise) {
         price: '23.99'
         }, {
         name: 'CBD Body Cream - 4oz',
-        img_url: 'https://static.wixstatic.com/media/7026a3_5c96868972834efcb3174e5423fe7add~mv2_d_3024_4032_s_4_2.jpg',
+        img_url: 'https://static.wixstatic.com/media/7026a3_0239c4baea204d56b469d536bee7f1ea~mv2_d_2000_2000_s_2.jpg',
         description: '420 Skincare CBD Organic Skin Lotion is scientifically formulated to go on smooth and leave no oily residue! Used by massage therapists and by those with fibromyalgia, eczema, liver spots and other skin ailments, our CBD Body Cream formula is praised for being fast acting and long lasting. This product complies with all FDA standards and is not meant to diagnose, treat, cure or maintain any ailments or diseases in accordance with FDA guidelines.',
         price: '43.99'
       }, {
         name: 'CBD Body Butter - 4oz',
-        img_url: 'https://static.wixstatic.com/media/7026a3_bfad99759f704da9b4d4f746f7daca7d~mv2_d_3024_4032_s_4_2.jpg',
+        img_url: 'https://static.wixstatic.com/media/7026a3_e85048fddca449dcbb6550ca3ed22eef~mv2_d_2000_2000_s_2.jpg',
         description: 'With a thicker consistency than body cream, 420 Skincare CBD body butter is a "Skin Super Food" that is crafted from seeds found in the fruit of the Shea tree. Naturally rich in vitamins, our CBD body butter provides the skin with essential fatty acids and nutrients necessary for the collagen production. 420 SkinCare CBD body butter also provides relief from sore joints, rashes circulation, sunburns, arthritis, chronic pain, psoriasis and lupus. This product complies with all FDA standards and is not meant to diagnose, treat, cure or maintain any ailments or diseases in accordance with FDA guidelines.',
         price: '43.99'
       }, {
         name: 'CBD Soap',
-        img_url: 'https://static.wixstatic.com/media/7026a3_72773d63a4704cd9b7e134fa5075d35b~mv2_d_2998_3245_s_4_2.jpeg',
-        description: '420 Skincare 100% natural and organic CBD soap is perfectly suited for the sensitive skin. Our soap is deliciously aromatic and has medicinal properties provided by the cannabis plant, making it an excellent choice for people who live a healthy lifestyle and only want the best for their bodies. Choose your favorite scent! This product complies with all FDA standards and is not meant to diagnose, treat, cure or maintain any ailments or diseases in accordance with FDA guidelines.',
+        img_url: 'https://static.wixstatic.com/media/7026a3_b17a842c8e14420f8dc84a9871b9955a~mv2_d_2861_1924_s_2.jpg',
+        description: '420 Skincare 100% natural and organic CBD soap is perfectly suited for sensitive skin. Our soap is deliciously aromatic and has medicinal properties provided by the cannabis plant, making it an excellent choice for people who live a healthy lifestyle and only want the best for their bodies. Choose your favorite scent! This product complies with all FDA standards and is not meant to diagnose, treat, cure or maintain any ailments or diseases in accordance with FDA guidelines.',
         price: '10.99'
       }, {
         name: 'CBD Bath Bomb - Twin Pack',
