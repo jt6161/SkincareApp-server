@@ -15,7 +15,7 @@ exports.seed = function(knex, Promise) {
         price: '23.99'
         }, {
         name: 'CBD Body Cream - 300mg ',
-        img_url: 'https://static.wixstatic.com/media/7026a3_0239c4baea204d56b469d536bee7f1ea~mv2_d_2000_2000_s_2.jpg',
+        img_url: 'https://static.wixstatic.com/media/7026a3_d78f78475aa946739630a822e84d6744~mv2_d_1946_1946_s_2.jpg',
         description: '420 Skincare 4oz CBD Organic Skin Lotion is scientifically formulated to go on smooth and leave no oily residue! Used by massage therapists and by those with fibromyalgia, eczema, liver spots and other skin ailments, our CBD Body Cream formula is praised for being fast acting and long lasting. This product complies with all FDA standards and is not meant to diagnose, treat, cure or maintain any ailments or diseases in accordance with FDA guidelines.',
         price: '43.99'
         }, {
@@ -25,7 +25,7 @@ exports.seed = function(knex, Promise) {
         price: '79.99'
         }, {
           name: 'CBD Body Butter - 300mg ',
-        img_url: 'https://static.wixstatic.com/media/7026a3_e85048fddca449dcbb6550ca3ed22eef~mv2_d_2000_2000_s_2.jpg',
+        img_url: 'https://static.wixstatic.com/media/7026a3_2ff271b6a9f84f9fa28745f1f033b071~mv2_d_2000_2000_s_2.jpg',
         description: 'With a thicker consistency than body cream, 420 Skincare CBD body butter is a "Skin Super Food" that is crafted from seeds found in the fruit of the Shea tree. Naturally rich in vitamins, our CBD body butter provides the skin with essential fatty acids and nutrients necessary for the collagen production. 420 SkinCare 4oz CBD body butter also provides relief from sore joints, rashes circulation, sunburns, arthritis, chronic pain, psoriasis and lupus. This product complies with all FDA standards and is not meant to diagnose, treat, cure or maintain any ailments or diseases in accordance with FDA guidelines.',
         price: '43.99'
         }, {
