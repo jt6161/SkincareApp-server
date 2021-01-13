@@ -1,28 +1,28 @@
 {
-  "name": "SkincareApp-server",
-  "version": "1.0.0",
-  "description": "420 Skincare back end. This is the server side code for 420 Skincare mobile app by Jennifer Tristan. For more information on 420 Skincare please visit www.420-Skincare.com",
-  "main": "knexfile.js",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "ejs": "^2.7.4",
-    "express": "^4.17.1",
-    "morgan": "^1.10.0",
-    "npm": "^5.10.0",
-    "pg": "^7.18.2"
-  },
-  "devDependencies": {},
+  "name": "420skincare",
+  "version": "2.0.0",
+  "description": "420 Skincare app",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",npm
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "knex": "^0.13.0",
+    "morgan": "^1.10.0",
+    "npm": "^5.10.0",
+    "pg": "^7.18.2",
+    "randomatic": "^3.1.1"
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jt6161/SkincareApp-server.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "JenniferTristan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jt6161/SkincareApp-server/issues"
