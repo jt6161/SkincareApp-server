@@ -1,0 +1,10 @@
+
+> libpq@1.8.9 install /Users/TheOrchard/workspace/SkincareApp-server/node_modules/libpq
+> node-gyp rebuild
+
+  CXX(target) Release/obj.target/addon/src/connection.o
+  CXX(target) Release/obj.target/addon/src/connect-async-worker.o
+  CXX(target) Release/obj.target/addon/src/addon.o
+  SOLINK_MODULE(target) Release/addon.node
++ pg-native@3.0.0
+added 10 packages in 57.83s
