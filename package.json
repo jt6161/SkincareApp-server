@@ -4,20 +4,14 @@
   "description": "420 Skincare back end. This is the server side code for 420 Skincare mobile app by Jennifer Tristan. For more information on 420 Skincare please visit www.420-Skincare.com",
   "main": "knexfile.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "ejs": "^2.7.4",
-    "express": "^4.17.1",
-    "knex": "^0.21.15",
-    "morgan": "^1.10.0",
-    "mssql": "^6.3.1",
-    "mysql": "^2.18.1",
-    "mysql2": "^2.2.5",
-    "node": "^15.4.0",
-    "npm": "^5.10.0",
-    "pg": "^8.5.1",
-    "pg-native": "^3.0.0",
-    "sqlite3": "^5.0.1"
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "knex": "^0.13.0",
+    "morgan": "^1.9.0",
+    "npm": "^5.8.0",
+    "pg": "^7.3.0"
   },
   "devDependencies": {},
   "scripts": {
